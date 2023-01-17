@@ -8,8 +8,7 @@ This is an ssh brute force tool
 
 
 
-if you need help dm me to discrod
-
+if you need help use --help command or dm me discord
 
 
 
