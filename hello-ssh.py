@@ -1,3 +1,12 @@
+import os 
+
+os.system("pip install paramiko")
+os.system("pip3 install paramiko")
+os.system("pip install argparse")
+os.system("pip3 install argparse")
+os.system("pip install colorama")
+os.system("pip3 install colorama")
+
 import paramiko
 import argparse
 import colorama
